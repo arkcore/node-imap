@@ -7,7 +7,8 @@
   "dependencies": {
     "utf7": "1.0.0",
     "readable-stream": "1.1.x",
-    "socks5-client": "git://github.com/arkcore/socks5-client.git"
+    "socks5-client": "git://github.com/arkcore/socks5-client.git",
+    "starttls": "~0.2.1"
   },
   "scripts": {
     "test": "node test/test.js"
